@@ -16,7 +16,7 @@ public class TodoResponseDto {
     private Long id;
     private String title;
     private String description;
-    private Boolean Completed;
+    private Boolean completed;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 
